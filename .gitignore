@@ -1,0 +1,7 @@
+# IDE
+.idea/
+
+# Maven
+target/
+
+activemq-data/
